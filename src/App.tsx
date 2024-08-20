@@ -82,7 +82,6 @@ const styles = {
     minWidth: '100vw',
     justifyContent: 'center',
     alignItems: 'center',
-    border: '3px solid red',
     backgroundColor: 'rgba(0, 0, 0, 0.1)',
   },
   document: {
